@@ -2,4 +2,6 @@
 my first repository
 github
 hello-world
-jiji
+my name brid
+hahahahah
+
