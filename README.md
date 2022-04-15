@@ -4,4 +4,4 @@ github
 hello-world
 my name brid
 hahahahah
-cati is very cute
+cat is very cute
